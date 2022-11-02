@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I’m currently working on MMCX
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, NODE, SQL
