@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello 👋 I'am Aron Pironato
 
 - 🔭 I’m currently working on MMCX
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, NODE, SQL
